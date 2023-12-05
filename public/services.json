@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "name": "Full-Service Event Management",
+    "image": "https://i.ibb.co/9pDpGFy/aditya-chinchure-Zh-QCZjr9f-Ho-unsplash.jpg",
+    "price": 79.99,
+    "short_description": "Join us for the hottest summer music festival of the year!",
+    "long_description": "We take care of everything from A to Z, so you can relax and enjoy your festival. Our team of experienced professionals will work with you to create a custom event plan that meets your budget and goals. We'll handle all of the logistics, including venue selection and booking, artist booking and management, stage production and design, sponsorship and fundraising, food and beverage, and more.",
+    "location": "Central Park, New York",
+    "singers": ["Alicia Keys", "John Legend", "Beyoncé", "Ed Sheeran"],
+    "ticket_remaining": 1000,
+    "event_date": "2024-07-15"
+  },
+  {
+    "id": 2,
+    "name": "Venue Selection and Booking",
+    "image": "https://i.ibb.co/pKn9p35/colin-lloyd-IGiil-WV0f20-unsplash.jpg",
+    "price": 89.99,
+    "short_description": "Rock out with legendary bands at Rocktober Fest!",
+    "long_description": "We'll help you find the perfect venue for your music festival, taking into account factors such as size, location, amenities, and budget. We'll also negotiate the contract and handle all of the necessary paperwork.",
+    "location": "Red Rocks Amphitheatre, Colorado",
+    "singers": ["Coldplay", "Queen", "Guns N' Roses", "AC/DC"],
+    "ticket_remaining": 800,
+    "event_date": "2024-10-10"
+  },
+  {
+    "id": 3,
+    "name": "Artist Booking and Management",
+    "image": "https://i.ibb.co/jwQ3XVK/mike-petrucci-f6-Xv0xs9-JWg-unsplash.jpg",
+    "price": 69.99,
+    "short_description": "Dance to the electrifying beats of Electric Groove Festival!",
+    "long_description": "We have a deep network of contacts in the music industry, so we can help you book the top artists for your festival. We'll also work with you to develop a performance schedule that will keep your attendees entertained all day long.",
+    "location": "Las Vegas Strip, Nevada",
+    "singers": ["Martin Garrix", "Calvin Harris", "David Guetta", "Zedd"],
+    "ticket_remaining": 1200,
+    "event_date": "2024-08-25"
+  },
+  {
+    "id": 4,
+    "name": "Stage Production and Design",
+    "image": "https://i.ibb.co/SvQ2qbF/john-matychuk-g-UK3l-A3-K7-Yo-unsplash.jpg",
+    "price": 59.99,
+    "short_description": "Experience the best of country music at Country Harmony Festival!",
+    "long_description": "We'll create a stunning stage set design that will perfectly complement your festival's vibe. We'll also handle all of the technical aspects of the stage production, including sound, lighting, and video.",
+    "location": "Nashville, Tennessee",
+    "singers": [
+      "Blake Shelton",
+      "Carrie Underwood",
+      "Luke Bryan",
+      "Miranda Lambert"
+    ],
+    "ticket_remaining": 1500,
+    "event_date": "2024-09-05"
+  },
+  {
+    "id": 5,
+    "name": "Sponsorship and Fundraising",
+    "image": "https://i.ibb.co/d45T12M/How-Does-Film-Festival-Sponsorship-Work-768x432-1.jpg",
+    "price": 69.99,
+    "short_description": "Experience the magic of jazz at Jazz Fusion Fest!",
+    "long_description": "We'll help you secure sponsorships from businesses and organizations that are interested in supporting your festival. We can also help you develop a fundraising strategy to raise money for your event.",
+    "location": "New Orleans, Louisiana",
+    "singers": [
+      "Herbie Hancock",
+      "Diana Krall",
+      "Chick Corea",
+      "Esperanza Spalding"
+    ],
+    "ticket_remaining": 900,
+    "event_date": "2024-06-20"
+  },
+  {
+    "id": 6,
+    "name": "Food and Beverage",
+    "image": "https://i.ibb.co/HNyFPtb/elevate-snnh-GYNqm44-unsplash.jpg",
+    "price": 49.99,
+    "short_description": "Discover the indie music scene at Indie Vibes Festival!",
+    "long_description": "We'll work with you to create a food and beverage vendor list that will offer a variety of options to your attendees. We'll also ensure that there is enough food and beverage available to meet the demands of your crowd.",
+    "location": "Austin, Texas",
+    "singers": [
+      "Tame Impala",
+      "Vampire Weekend",
+      "Arctic Monkeys",
+      "Florence + The Machine"
+    ],
+    "ticket_remaining": 700,
+    "event_date": "2024-08-15"
+  }
+]

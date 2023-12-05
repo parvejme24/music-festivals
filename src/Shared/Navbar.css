@@ -1,0 +1,10 @@
+.active {
+  background: transparent !important;
+  color: blue !important;
+  text-decoration: underline;
+}
+
+.active:hover,
+.active:focus {
+  color: blue !important;
+}

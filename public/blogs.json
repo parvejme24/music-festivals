@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "The Art of Festival Planning: Tips and Tricks",
+    "date": "October 15, 2023",
+    "image": "https://www.wildapricot.com/wp-content/uploads/2022/10/how-to-plan-an-event8ab1f2dfae624b46a4bed6e2d725a9ac-scaled.jpg",
+    "content": "Learn the secrets to planning a successful music festival, from artist curation to logistics. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a lorem ac elit tristique facilisis."
+  },
+  {
+    "id": 2,
+    "title": "Top 10 Must-See Performances at Our Upcoming Festival",
+    "date": "September 28, 2023",
+    "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2018/11/Festivals-in-America.jpg",
+    "content": "Get ready for an unforgettable experience with our lineup of top-notch artists. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a lorem ac elit tristique facilisis."
+  },
+  {
+    "id": 3,
+    "title": "Sustainability Initiatives at Rhythmic Revelry Festival",
+    "date": "August 12, 2023",
+    "image": "https://images.fastcompany.net/image/upload/w_596,c_limit,q_auto:best,f_auto/wp-cms/uploads/2019/10/10-festivals-as-sustainable-experimentation.jpg",
+    "content": "Discover how we're committed to making our festival eco-friendly and sustainable. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a lorem ac elit tristique facilisis."
+  },
+  {
+    "id": 4,
+    "title": "Behind the Scenes: Meet Our Festival Organizers",
+    "date": "July 5, 2023",
+    "image": "https://static.euronews.com/articles/stories/07/23/39/06/1440x810_cmsv2_89eb4014-198d-5d26-88e4-93c87f35e1f5-7233906.jpg",
+    "content": "Get to know the passionate team that brings your favorite festival to life. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a lorem ac elit tristique facilisis."
+  },
+  {
+    "id": 5,
+    "title": "The Magic of Festival Atmosphere",
+    "date": "November 20, 2023",
+    "image": "https://editorial01.shutterstock.com/preview-440/12450152f/af669af5/Shutterstock_12450152f.jpg",
+    "content": "Explore the unique atmosphere and vibes that make our festival a magical experience. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a lorem ac elit tristique facilisis."
+  },
+  {
+    "id": 6,
+    "title": "The Evolution of Festival Fashion",
+    "date": "December 10, 2023",
+    "image": "https://cdn.shopify.com/s/files/1/0982/0722/files/Rave-fashion-1990-s-Beau-McGavin_grande.JPG?1986976763804193945",
+    "content": "Discover the ever-changing world of festival fashion trends. From boho chic to futuristic styles, we explore the evolution of festival attire. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a lorem ac elit tristique facilisis."
+  }
+]

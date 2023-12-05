@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "singer1_name": "Adele",
+    "singer2_name": "Sam Smith",
+    "event_time": "2024-02-10 19:30:00",
+    "location": "O2 Arena, London",
+    "description": "Adele and Sam Smith unite for a soulful evening of music at the iconic O2 Arena.",
+    "singer1_image": "https://media.istockphoto.com/id/1325244678/photo/african-american-handsome-young-man-singing-into-the-microphone-in-the-studio-on-a-neon.webp?b=1&s=170667a&w=0&k=20&c=G5vES1PnbySL0zewdmTM34-O1XOLF3NN_mSdky_Q06g=",
+    "singer2_image": "https://media.istockphoto.com/id/136362521/photo/jazz-singer.webp?b=1&s=170667a&w=0&k=20&c=_gjGR1jG6MBJ9vyuZYF-gbUs5hBCXqcIua5FiXT6Yv0="
+  },
+  {
+    "id": 2,
+    "singer1_name": "Shawn Mendes",
+    "singer2_name": "Camila Cabello",
+    "event_time": "2024-03-20 21:15:00",
+    "location": "American Airlines Center, Dallas",
+    "description": "Shawn Mendes and Camila Cabello bring their chart-topping hits to Dallas for an electrifying performance.",
+    "singer1_image": "https://media.istockphoto.com/id/1364753955/photo/beautiful-afro-woman.jpg?s=612x612&w=0&k=20&c=5vtb6sZx0yuKHJDfJhSu01kx1c6mnKKrOQMEBwDArx0=",
+    "singer2_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_MYt4ALvYAvbqHbKQ7Nzqd3fPKzvnflsmew&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "singer1_name": "Justin Bieber",
+    "singer2_name": "Dua Lipa",
+    "event_time": "2024-04-25 20:00:00",
+    "location": "Barclays Center, Brooklyn",
+    "description": "Justin Bieber and Dua Lipa collaborate for a night of pop sensation at the Barclays Center.",
+    "singer1_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0UCfJaFL67BFVag88LAZWus8YTQvPKPgnw&usqp=CAU",
+    "singer2_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_MYt4ALvYAvbqHbKQ7Nzqd3fPKzvnflsmew&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "singer1_name": "Bruno Mars",
+    "singer2_name": "Cardi B",
+    "event_time": "2024-05-15 18:45:00",
+    "location": "MGM Grand Garden Arena, Las Vegas",
+    "description": "Bruno Mars and Cardi B team up for a high-energy performance in the entertainment capital of the world.",
+    "singer1_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAAeXAeVk12fIS0nt02VL3qHYiW7IvjHJWZQ&usqp=CAU",
+    "singer2_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuEDuK5_TXBDZxuQbCXk5j8UqInXM0s7oEwA&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "singer1_name": "Coldplay",
+    "singer2_name": "Bstn Mola",
+    "event_time": "2024-06-30 19:00:00",
+    "location": "Wembley Stadium, London",
+    "description": "Coldplay and BTS come together for a monumental concert at Wembley Stadium, promising an unforgettable night of music and entertainment.",
+    "singer1_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9gttVAd8MLNbG3R6m6PI1egOLZVWn3-_oqg5iE7TN3wq8jBF2jEnuIueX9OadaCdeW58&usqp=CAU",
+    "singer2_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7DMlUVpIagTfbYgBgIxJS08Uyl65oGp1_D1P_82WaFMTLg6oK3hNYXDL6CAY__QI0UJQ&usqp=CAU"
+  }
+]
